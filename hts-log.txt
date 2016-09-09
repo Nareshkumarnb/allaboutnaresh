@@ -1,0 +1,46 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 30 Aug 2016 15:01:27 at http://codingfeat.com/wpthemes/ena/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://codingfeat.com/wpthemes/ena/ -O1 "C:\My Web Sites\john doe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:04:45	Warning: 	File not parsed, looks like binary: codingfeat.com/wpthemes/ena/wp-content/plugins/accesspress-twitter-feed/css/fonts/WebSymbols-Regular.ttf
+15:04:45	Warning: 	File not parsed, looks like binary: codingfeat.com/wpthemes/ena/wp-content/themes/ena/fonts/fontawesome-webfont.woff2?v=4.6.3
+15:04:45	Warning: 	File not parsed, looks like binary: codingfeat.com/wpthemes/ena/wp-content/themes/ena/fonts/fontawesome-webfont.ttf?v=4.6.3
+15:04:45	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/wp-content/themes/ena/css/owl.video.play.png (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bcpBCsMwDAXRC9V2rqS6343AkkwkE3r7LgLFhG7fzFagVKp7EXorN65p2Jjjsf2CnT1XOmw6-o1jhyC_0Gj2WFozjUQn3ASJlIWCTbOwLtPluInzn_VpFh4HjcU9Ph1f.css)
+15:04:45	Warning: 	File not parsed, looks like binary: codingfeat.com/wpthemes/ena/wp-content/themes/ena/fonts/glyphicons-halflings-regular.woff2
+15:04:45	Warning: 	File not parsed, looks like binary: codingfeat.com/wpthemes/ena/wp-content/themes/ena/fonts/glyphicons-halflings-regular.ttf
+15:04:45	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/wp-content/themes/img/me.jpg (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bcpBCsMwDAXRC9V2rqS6343AkkwkE3r7LgLFhG7fzFagVKp7EXorN65p2Jjjsf2CnT1XOmw6-o1jhyC_0Gj2WFozjUQn3ASJlIWCTbOwLtPluInzn_VpFh4HjcU9Ph1f.css)
+15:04:45	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/wp-content/themes/img/contact.jpg (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bcpBCsMwDAXRC9V2rqS6343AkkwkE3r7LgLFhG7fzFagVKp7EXorN65p2Jjjsf2CnT1XOmw6-o1jhyC_0Gj2WFozjUQn3ASJlIWCTbOwLtPluInzn_VpFh4HjcU9Ph1f.css)
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=208
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=208 to http://codingfeat.com/wpthemes/ena/?page_id=208
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=132
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=132 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=great-architects
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=130
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=130 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=energy-lego
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=127
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=127 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=glasses-dg
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=125
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=125 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=calligraphy-writing
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=123
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=123 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=rocks-photographer
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=119
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=119 to http://codingfeat.com/wpthemes/ena/?orr_portfolio_items=mathematics-game
+15:05:00	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena//category/uncategorized (from codingfeat.com/wpthemes/ena/?post_type=post&p=212)
+15:05:00	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/Popover requires tooltip.js (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bczbDsIwCAbgF3KrXvk8WNGxtMCAZvPtzRKTpert9x8uKQsH5BgeYnW4JuJc2h09zZ48G2n46ZyQYYcqphNuMVbiQ-elob1GXBqUCek5hfeFClog49_VCi8V4u_JJ83SONCa_iSgimAHy1rGDCbNsfRXq6w9KBiUAtshwFSdgoT75k0kPAx05zc.js)
+15:05:00	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/ImageLoaded.js (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bctBDoAgDAXRCykQb4T0S6pCK8hCT280MW5cvxlnkb2dq-UquyiMLpFM4ty5V-atoRwm-Zh54tCraNPfhDBKywFUUPnE5w-v4glluM8L.js)
+15:05:00	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/Image.js (from codingfeat.com/wpthemes/ena/wp-content/cache/minify/000000/bctBDoAgDAXRCykQb4T0S6pCK8hCT280MW5cvxlnkb2dq-UquyiMLpFM4ty5V-atoRwm-Zh54tCraNPfhDBKywFUUPnE5w-v4glluM8L.js)
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=191
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=191 to http://codingfeat.com/wpthemes/ena/?ena_slider=slide-3
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=189
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=189 to http://codingfeat.com/wpthemes/ena/?ena_slider=slide-2
+15:05:00	Warning: 	Moved Permanently for codingfeat.com/wpthemes/ena/?p=160
+15:05:00	Warning: 	File has moved from codingfeat.com/wpthemes/ena/?p=160 to http://codingfeat.com/wpthemes/ena/?ena_slider=slide-1
+15:05:03	Warning: 	Found for codingfeat.com/wpthemes/ena/wp-admin/
+15:05:03	Warning: 	File has moved from codingfeat.com/wpthemes/ena/wp-admin/ to http://codingfeat.com/wpthemes/ena/wp-login.php?redirect_to=http%3A%2F%2Fcodingfeat.com%2Fwpthemes%2Fena%2Fwp-admin%2F&reauth=1
+15:05:05	Error: 	"Not Found" (404) at link codingfeat.com/wpthemes/ena/wp-admin/&reauth=1 (from codingfeat.com/wpthemes/ena/wp-login.php?redirect_to=http%3A%2F%2Fcodingfeat.com%2Fwpthemes%2Fena%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 3 minutes 38 seconds : 189 links scanned, 169 files written (8571832 bytes overall) [5016017 bytes received at 23009 bytes/sec], 4590355 bytes transferred using HTTP compression in 104 files, ratio 20%, 6.3 requests per connection
+(8 errors, 27 warnings, 0 messages)
